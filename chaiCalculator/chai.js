@@ -6,7 +6,7 @@ function calculateChaiIngredients(numberOfCups) {
 
     const totalWater = water * numberOfCups; // To Calculate total water needed for all cups
     const totalMilk = milk * numberOfCups; // Calculating total milk needed for the cups
-    const totalTea = tea * numberOfCups; //calculating tatal teaspoons needed for the cups
+    const totalTea = tea * numberOfCups; //calculating tatal tablespoons needed for the cups
     const totalSugar = sugar * numberOfCups; // Calculating total teaspoons of Sugar need for the cups
 
     //Display total ingredient amounts/measurements based on the user input
