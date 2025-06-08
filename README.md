@@ -1,4 +1,4 @@
-# Week 1 JavaScript Code Challenge_
+# Week 1 JavaScript Code Challenge
 
 ## 📋 Description
 
@@ -22,7 +22,7 @@ To run any of the JavaScript files:
 > You can also link the JavaScript file to a simple HTML page and run it in a browser.
 
 
-## 🧑🏽 Author
+## 👩‍💻 Author
 
 Grace Eileen Bass
 
